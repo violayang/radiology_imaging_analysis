@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.env
+.venv/
+.idea/
+.oca/
+
+Wallet_*.zip
+Wallet_*/
+wallet/
+
+image/
+demo asset.rtf
